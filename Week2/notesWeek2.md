@@ -1,3 +1,13 @@
+## Week 2 Notes
+##
+### Explain the core components of the languages and tools used in front end development
+### Build web pages using JavaScript, HTML, and CSS
+### Define variables and arrays using JavaScript
+### Write conditional statements to define when a program should take certain actions
+### Define functions to store specific actions that a program can execute upon new data
+### Define objects to store data in key value pairs
+Write a program that executes after some criteria are met
+### 
 ### Computers take certain amounts of labor off the user. They make it easier to write faster and calculate numbers. They enable us to access billions of hours of information from almost anywhere in the world. They connect people. They enable commerce of goods and ideas. They store vast amounts of information.
 
 ### Border radius percentage in divs changes the shape: less is more square, more is more round.
