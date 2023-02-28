@@ -17,3 +17,16 @@
 #### Boolean
 
 Arrays are like Ender chests. The contents can be changed, but all the Ender chests for one player point to the same inventory slots.
+
+> function subtractNumbers(num1, num2) { 
+>   let result = num1-num2; 
+>   console.log(result);
+> };
+> 
+> subtractNumbers(10, 3) 
+
+The function is declared first, and it takes 2 parameters, num1 and num2. Inside the function, the parameters num1 and num2 are passed in, and the block-scoped variable result is assigned the value of the remainder of num1 minus num2. It then prints that answer to the console log. So, when subtractNumbers(10, 3) is called, 3 is subtracted from 10, and the function returns as 7.
+
+contacts[2].course = 'front end dev';
+this reminds me of solving for x in algebra.
+
