@@ -93,3 +93,21 @@
 ### (function(){
 ###   console.log('hey);
 ### })()
+People to look up: Sara Soueidan, Ethan Marcotte, John Resig
+
+Progressive web applications that work just as well on mobile as on computer. 
+
+Apple's website is, according to Carolina, very interactive and good. 
+
+Memphis design is a rejection of minimalism: colorful, approachable, and adventurous.
+
+Visible borders -- look up more of this
+
+Learn Sass (haha)
+
+Put READMEs on all projects on my GitHub
+
+Put the keywords for the positions you want in your resume.
+
+Website: https://www.remote.io
+
