@@ -9,3 +9,5 @@
 ### Explain how HTML pages interpret a JavaScript code
 ### Explain how a browser interprets HTML and  JavaScript code
 ### Use JavaScript to dynamically display data on a web page
+### 
+### Getting this hooked up to GitHub.
