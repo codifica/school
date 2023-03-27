@@ -30,3 +30,12 @@ String.replaceAll() using an empty string. Once can replace all commas with an e
 In VSCode, highlight something and press command + D to highlight them all and change them at the same time.
 
 .sort 
+
+Callback functions lend flexibility to when we execute certain code. It means we can code a setup and then pass in some of the unknowns later. 
+
+A regular function expression is a function that's assigned to a variable, which enables it to be passed into another function.
+
+
+Callback functions take a whole function and make it able to be run elsewhere in the code, a way called ayschronously. It means functions can be declared earlier in the code and be run later.
+
+
