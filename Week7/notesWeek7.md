@@ -10,4 +10,5 @@
 ### Explain how a browser interprets HTML and  JavaScript code
 ### Use JavaScript to dynamically display data on a web page
 ### 
-### Getting this hooked up to GitHub.
+### Getting this hooked up to GitHub properly.
+### https://jestjs.io/ - testing suite we are using
