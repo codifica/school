@@ -1,0 +1,39 @@
+body {
+  background-color: #ffffff;
+}
+
+h1 {
+  color: #0170ff;
+}
+
+a {
+  color: #ff0101;
+}
+
+li {
+  padding: 10px 20px;
+  border-left: 5px solid #005cfc;
+  background-color: #f1f1f1;
+  list-style-type: none;
+}
+
+.active {
+  border-left: 5px solid #01e4ff;
+}
+
+.content {
+  padding: 20px;
+  margin: 10px;
+  font-style: italic;
+  background-color: #424edc;
+  color: #fff;
+}
+
+.footer {
+  text-align: center;
+  padding: 20px;
+  margin: 10px;
+  background-color: #424edc;
+  color: #fff;
+}
+
