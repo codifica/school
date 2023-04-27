@@ -1,4 +1,4 @@
-## Week 7 Notes
+## Week 8 Notes
 ## 
 ### Apply styles to HTML code
 ### Explain how CSS, HTML, and JavaScript work together to create web pages
